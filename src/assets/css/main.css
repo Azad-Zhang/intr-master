@@ -1,0 +1,50 @@
+a {
+  color: #333333;
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+h1 {
+  font-size: 2em;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+h7 {
+  margin: 5px 0 5px 0;
+}
+
+span {
+  display: inline-block;
+  margin: 5px;
+  font-family: "iconfont", Avenir, Helvetica, Arial, sans-serif;
+}
+
+*,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+i {
+  font-style: normal;
+}
+
+.w {
+  width: 1300px;
+  margin: auto;
+}
+
+.w15 {
+  width: 1500px;
+  margin: auto;
+}
+
+#app {
+  margin-top: 0;
+}
